@@ -29,9 +29,9 @@ When all the barbers and customers have gone home, the shop closes. If there are
 ### Output
 Your program should print the below events in chronological order.  [Time] is barbershop-time in the format HH:MM, not real time.
 
-[Time] Barber shop [opened/closed]
-[Time] [Barber] [started/ended] shift
-[Time] [Customer] entered
-[Time] [Customer] left [impatiently/satisfied/unfulfilled/cursing himself/furious]
-[Time] [Barber] [started/ended] cutting [Customer]'s hair
+[Time] Barber shop [opened/closed] \
+[Time] [Barber] [started/ended] shift \
+[Time] [Customer] entered \
+[Time] [Customer] left [impatiently/satisfied/unfulfilled/cursing himself/furious] \
+[Time] [Barber] [started/ended] cutting [Customer]'s hair 
 
